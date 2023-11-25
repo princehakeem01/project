@@ -1,0 +1,61 @@
+
+body, h1, h2, h3, p, ul, ol, li, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+
+header {
+    background-color: black
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+nav {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+main {
+    padding: 20px;
+   
+    }
+    <style>body {
+        background-image: url(images/LOGO.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: large;
+        background-position: bottom;
+       
+    }
+</style>
+
+    
+
+
+
+
+footer {
+    background-color: black
+;
+    color: blue;
+    padding: 10px;
+    text-align: center;
+}
+
