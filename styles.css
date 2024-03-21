@@ -37,10 +37,10 @@ main {
    
     }
     <style>body {
-        background-image: url(images/LOGO.jpg);
+        background-image: url(images/IMG_1992.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
-        background-size: large;
+        background-size: small;
         background-position: bottom;
        
     }
@@ -49,6 +49,24 @@ main {
     
 
 
+.contact us-container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.contact{
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 20px auto;
+    border: 1px solid black;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.contact p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
 
 
 footer {
